@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LastImageViewer</string>
+
+    <string name="permission_error">missing app permission to storage access. please grant app permission and restart app.</string>
+</resources>
